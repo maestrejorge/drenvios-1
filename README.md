@@ -30,3 +30,11 @@ Deploying this API is not mandatory, but we would greatly appreciate it if the p
 ## Submission
 
 Once you have completed the task, please send us an email at cleonve@drenvio.com. In the email, kindly let us know if you encountered any difficulties during the process, how you resolved any challenges, and if you have any recommendations for improving the API for the sneakers store. Additionally, please provide the URL to your favorite public repository or the link to the deployed application. Your feedback and insights will be greatly appreciated.
+
+## Local Usage Instructions
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies using `npm install`.
+3. Set up the required environment variables in a `.env` file based on the provided technical information.
+4. Start the server using `npm start`.
+5. Access the API at `http://localhost:{PORT}` (replace `{PORT}` with the appropriate port).
